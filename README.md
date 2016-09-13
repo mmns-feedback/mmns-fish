@@ -1,4 +1,4 @@
 mmns-fish
 =========
 
-Issue tracking for MMNS Fish data in the VertNet portal (portal.vertnet.org).
+Feedback and usage report repository for MMNS Fish data set [GBIF ID].
