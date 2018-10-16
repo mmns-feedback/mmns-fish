@@ -1,0 +1,86 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 277
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 27
+	Country: United Kingdom ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 19
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 7
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-22 ; Times: 4
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-19 ; Times: 9
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-07 ; Times: 3
+	Date: 2018-02-06 ; Times: 40
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 4
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "54553" ; Times: 1
+	Query: "Oliver Jones" ; Times: 1
+	Query: "(19137)" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "North Midden" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "19848" ; Times: 1
+	Query: "Mylopharyngodon piceus" ; Times: 3
+	Query: "64210" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "county:&#34;Oktibbeha&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 7
+	Query: "&#34;Mylopharyngodon piceus&#34;" ; Times: 24
+	Query: "dasyatis sabina" ; Times: 5
+	Query: "Rhizoprionodon terraenovae" ; Times: 18
+	Query: "scientificname:&#34;cyprinella venusta cercostigma&#34;" ; Times: 1
+	Query: "11297" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1892 download events in this period)
+Total number of records downloaded: 138
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 1
+	Query: "buren" ; Times: 1
+
+
+End of report.
