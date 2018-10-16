@@ -1,0 +1,95 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 303
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-03 ; Times: 2
+	Date: 2018-03-20 ; Times: 12
+	Date: 2018-03-06 ; Times: 7
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 6
+	Date: 2018-03-27 ; Times: 5
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-22 ; Times: 18
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 8
+	Query: "noturus miurus" ; Times: 1
+	Query: "10273" ; Times: 1
+	Query: "15144" ; Times: 1
+	Query: "R 23339" ; Times: 1
+	Query: "44414" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 8
+	Query: "50204" ; Times: 1
+	Query: "26356" ; Times: 1
+	Query: "North Midden" ; Times: 2
+	Query: "Salvelinus fontinalis mappable:1" ; Times: 1
+	Query: "Clarias batrachus 1" ; Times: 1
+	Query: "33640" ; Times: 1
+	Query: "24890" ; Times: 1
+	Query: "35919" ; Times: 1
+	Query: "Gladys" ; Times: 1
+	Query: "Etheostoma longimanum" ; Times: 3
+	Query: "16171" ; Times: 3
+	Query: "Elassoma okefenokee" ; Times: 1
+	Query: "14C" ; Times: 3
+	Query: "62969" ; Times: 1
+	Query: "Astronotus ocellatus 1" ; Times: 2
+	Query: "47432`" ; Times: 1
+	Query: "SEA TURTLE" ; Times: 1
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "Monopterus albus 1" ; Times: 1
+	Query: "52261" ; Times: 1
+	Query: "21570" ; Times: 1
+	Query: "15119" ; Times: 1
+	Query: "26861" ; Times: 1
+	Query: "16577" ; Times: 1
+	Query: "53539" ; Times: 1
+	Query: "Cichlasoma urophthalmus 1" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "noturus elegans" ; Times: 1
+	Query: "26996" ; Times: 1
+	Query: "Belonesox belizanus 1" ; Times: 1
+	Query: "chrosomus erythrogaster" ; Times: 4
+	Query: "Etheostoma variatum" ; Times: 1
+	Query: "65223" ; Times: 1
+	Query: "Oreochromis aureus 1" ; Times: 1
+	Query: "16003" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1284 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
