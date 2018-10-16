@@ -1,0 +1,140 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 195
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United Kingdom ; Times: 3
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 49
+	Country: China ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 12
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-02 ; Times: 5
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 7
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-19 ; Times: 3
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 6
+	Date: 2018-04-24 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 9
+	Query: "26781" ; Times: 1
+	Query: "county:&#34;mcnairy&#34;" ; Times: 1
+	Query: "58831" ; Times: 1
+	Query: "scientificname:(Oncorhynchus kisutch) country:United States mappable:1" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "scientificname:(Polyodon spathula) country:United States mappable:1" ; Times: 1
+	Query: "36218" ; Times: 1
+	Query: "scientificname:(Catostomus insignis) country:United States mappable:1" ; Times: 1
+	Query: "16232" ; Times: 1
+	Query: "North Midden" ; Times: 1
+	Query: "tiaroga cobitis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "34929" ; Times: 2
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "scientificname:(Moxostoma macrolepidotum OR Moxostoma macrolepidotum macrolepidotum) country:United States mappable:1" ; Times: 2
+	Query: "catostomus insignis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "profundulus" ; Times: 1
+	Query: "A-31936" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "scientificname:(Etheostoma camurum) country:United States mappable:1" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "scientificname:(Atractosteus spatula OR Lepisosteus spatula) country:United States mappable:1" ; Times: 1
+	Query: "agosia chrysogaster stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "meda fulgida stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "scientificname:(Noturus flavus) country:United States mappable:1" ; Times: 2
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Anguilla rostrata stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "scientificname:(Catostomus clarkii OR Catostomus clarki) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Petromyzon marinus) country:United States mappable:1" ; Times: 1
+	Query: "north midden" ; Times: 1
+	Query: "29688" ; Times: 1
+	Query: "Notropis topeka mappable:1" ; Times: 12
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "35872" ; Times: 1
+	Query: "agosia chrysogaster chrysogaster stateprovince:Arizona mappable:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1359 download events in this period)
+Total number of records downloaded: 2742
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: Brazil ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-15 ; Times: 5
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-24 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "distance(location,geopoint(46.23388,-89.53725))&lt;50000" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "amia calva" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "distance(location,geopoint(46.21111,-89.47825))&lt;50000" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "distance(location,geopoint(45.998269,-89.704767))&lt;50000" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+
+
+End of report.
