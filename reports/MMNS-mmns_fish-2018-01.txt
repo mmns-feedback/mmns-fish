@@ -1,0 +1,158 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 155
+Number of records retrieved in searches: 3222
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 67
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 79
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-08 ; Times: 4
+	Date: 2018-01-30 ; Times: 10
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 9
+	Date: 2018-01-03 ; Times: 10
+	Date: 2018-01-26 ; Times: 7
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-31 ; Times: 3
+	Date: 2018-01-17 ; Times: 82
+	Date: 2018-01-16 ; Times: 2
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-25 ; Times: 4
+	Date: 2018-01-05 ; Times: 3
+	Date: 2018-01-11 ; Times: 9
+	Date: 2018-01-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Stegastes flavilatus mappable:1" ; Times: 1
+	Query: "Oligoplites saurus" ; Times: 2
+	Query: "dasyatis americana" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "36607" ; Times: 3
+	Query: "allen county ohio" ; Times: 1
+	Query: "fundulus seminolis" ; Times: 2
+	Query: "county:&#34;Union&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "scientificname:(Notropis topeka) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(28.201407172,-96.9181141195))&lt;9172" ; Times: 3
+	Query: "scientificname:(Atractosteus spatula OR Lepisosteus spatula) country:United States mappable:1" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "(&#34;14C&#34;)" ; Times: 2
+	Query: "Eucinostomus gula" ; Times: 2
+	Query: "Citharichthys spilopterus" ; Times: 2
+	Query: "oreochromis niloticus" ; Times: 2
+	Query: "Chaetodipterus faber" ; Times: 2
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "Megalops atlanticus" ; Times: 2
+	Query: "panuco fishes" ; Times: 1
+	Query: "erimystax harryi" ; Times: 7
+	Query: "scientificname:(Cottus hypselurus) country:United States mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 3
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "26413" ; Times: 1
+	Query: "Stegastes partitus" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "29233" ; Times: 3
+	Query: "Evorthodus lyricus" ; Times: 2
+	Query: "Astyanax fasciatus" ; Times: 2
+	Query: "fundulus pulvereus" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Red Drum" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Dormitator maculatus" ; Times: 2
+	Query: "Eucinostomus argenteus" ; Times: 2
+	Query: "20821" ; Times: 1
+	Query: "scientificname:(Umbra limi) country:United States mappable:1" ; Times: 1
+	Query: "Belonesox belizanus" ; Times: 2
+	Query: "county:&#34;allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "Ictalurus furcatus" ; Times: 2
+	Query: "Pterygoplichthys disjunctivus" ; Times: 2
+	Query: "Strongylura marina" ; Times: 2
+	Query: "Eupomacentrus partitus" ; Times: 1
+	Query: "Stegastes partitus mappable:1" ; Times: 1
+	Query: "hybopsis dissimilis" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 2
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Anchoa mitchilli" ; Times: 2
+	Query: "Gobiesox strumosus" ; Times: 2
+	Query: "Ariopsis felis" ; Times: 2
+	Query: "21220" ; Times: 1
+	Query: "vntype:specimen fieldnumber:1195 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "opposum" ; Times: 2
+	Query: "Stegastes flavilatus" ; Times: 1
+	Query: "Eupomacentrus partitus mappable:1" ; Times: 1
+	Query: "51835" ; Times: 1
+	Query: "24291" ; Times: 1
+	Query: "Mugil curema" ; Times: 2
+	Query: "Opsanus beta" ; Times: 2
+	Query: "vntype:specimen fieldnumber:1195" ; Times: 1
+	Query: "Gobionellus oceanicus" ; Times: 2
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "17892" ; Times: 1
+	Query: "Dorosoma petenense" ; Times: 2
+	Query: "61419" ; Times: 1
+	Query: "Elops saurus" ; Times: 2
+	Query: "Porichthys porosissimus" ; Times: 2
+	Query: "Etropus crossotus" ; Times: 2
+	Query: "18139" ; Times: 1
+	Query: "MMNS-28206" ; Times: 1
+	Query: "opposum mappable:1" ; Times: 3
+	Query: "Trachinotus carolinus" ; Times: 2
+	Query: "county:&#34;Allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Anchoa hepsetus" ; Times: 2
+	Query: "scientificname:(Moxostoma macrolepidotum OR Moxostoma macrolepidotum macrolepidotum) country:United States mappable:1" ; Times: 2
+	Query: "Micropogonias undulatus" ; Times: 2
+	Query: "Harengula jaguana" ; Times: 2
+	Query: "&#34;Striped bass&#34;" ; Times: 1
+	Query: "Trinectes maculatus" ; Times: 2
+	Query: "Oreochromis niloticus" ; Times: 2
+	Query: "Bagre marinus" ; Times: 2
+	Query: "Myrophis punctatus" ; Times: 2
+	Query: "distance(location,geopoint(29.093965819,-95.2337018795))&lt;15497" ; Times: 3
+	Query: "Achirus lineatus" ; Times: 2
+	Query: "Agonostomus monticola" ; Times: 2
+	Query: "42679" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "Aplodinotus grunniens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1398 download events in this period)
+Total number of records downloaded: 521
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "Raja texana" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "county:&#34;Allen&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "erimystax harryi" ; Times: 1
+	Query: "anchoa mitchilli" ; Times: 1
+
+
+End of report.
