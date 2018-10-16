@@ -1,0 +1,116 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 1048
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: Russia ; Times: 1
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-23 ; Times: 3
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-20 ; Times: 5
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-06 ; Times: 3
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-11 ; Times: 34
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-18 ; Times: 3
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 4
+	Query: "Elops saurus" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "Oligoplites saurus" ; Times: 1
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 1
+	Query: "Homo" ; Times: 2
+	Query: "Etropus crossotus" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "gopher frog" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "Alosa pseudoharengus mappable:1" ; Times: 2
+	Query: "Evorthodus lyricus" ; Times: 1
+	Query: "44483" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "Strongylura marina" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 1
+	Query: "houston museum of natural science" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Harengula jaguana" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Trinectes maculatus" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "Opsanus beta" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "Upeneus parvus" ; Times: 1
+	Query: "22704" ; Times: 1
+	Query: "Myrophis punctatus" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Gobionellus oceanicus" ; Times: 1
+	Query: "pygocentrus nattereri" ; Times: 1
+	Query: "Chaetodipterus faber" ; Times: 1
+	Query: "gulf sturgeon" ; Times: 1
+	Query: "Dormitator maculatus" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "Eucinostomus argenteus" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "Mugil curema" ; Times: 1
+	Query: "Eucinostomus gula" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "Agonostomus monticola" ; Times: 1
+	Query: "17301" ; Times: 1
+	Query: "Fundulus euryzonus" ; Times: 2
+	Query: "22094" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 1
+	Query: "Citharichthys spilopterus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 674 download events in this period)
+Total number of records downloaded: 112
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pylodictis olivaris" ; Times: 1
+
+
+End of report.
