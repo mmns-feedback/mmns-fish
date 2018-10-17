@@ -1,0 +1,114 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 434
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Denmark ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 53
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 8
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-19 ; Times: 6
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 7
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-21 ; Times: 4
+	Date: 2018-08-20 ; Times: 12
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 20
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 6
+	Query: "49831" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "48541" ; Times: 1
+	Query: "66407 o" ; Times: 1
+	Query: "10699" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "60030" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "latonia" ; Times: 2
+	Query: "24493" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "locality:berea" ; Times: 2
+	Query: "39306" ; Times: 1
+	Query: "60257" ; Times: 2
+	Query: "51957" ; Times: 1
+	Query: "T 1484" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "Pygocentrus nattereri" ; Times: 2
+	Query: "32613" ; Times: 2
+	Query: "25004" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "24949" ; Times: 1
+	Query: "George Carroll" ; Times: 2
+	Query: "41411" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "30447" ; Times: 1
+	Query: "21408" ; Times: 1
+	Query: "etheostoma nigripinne" ; Times: 2
+	Query: "Noturus munitus" ; Times: 1
+	Query: "59754" ; Times: 1
+	Query: "61905" ; Times: 2
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "illinois Menard County" ; Times: 1
+	Query: "12116" ; Times: 1
+	Query: "57648" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "tumor" ; Times: 1
+	Query: "43649" ; Times: 1
+	Query: "11472" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "crayfish" ; Times: 3
+	Query: "33004" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1416 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "fulmar" ; Times: 1
+
+
+End of report.
