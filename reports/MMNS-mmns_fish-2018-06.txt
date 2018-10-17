@@ -1,0 +1,95 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 57
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 4
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 6
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "distance(location,geopoint(37.9940788312488,-89.8514679239135))&lt;13019" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "64465" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "&#34;Paw Paw&#34; vntype:specimen" ; Times: 1
+	Query: "Walthall County Mississippi" ; Times: 1
+	Query: "CM 28056" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "locality:Schultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "59215" ; Times: 1
+	Query: "sea turtle" ; Times: 2
+	Query: "Ictalurus sp." ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "36384`1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1169 download events in this period)
+Total number of records downloaded: 404
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Panama ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "bullfrog" ; Times: 3
+	Query: "sea turtle" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "Cougar" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "locality:Schultz county:&#34;Bibb&#34;" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "newt" ; Times: 3
+
+
+End of report.
