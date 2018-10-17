@@ -1,0 +1,97 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 807
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-16 ; Times: 4
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-13 ; Times: 34
+	Date: 2018-09-20 ; Times: 4
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-23 ; Times: 3
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 4
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 3
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "egg mississippi" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 3
+	Query: "33513" ; Times: 1
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 2
+	Query: "22579" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 3
+	Query: "Procambarus" ; Times: 3
+	Query: "Carassius auratus" ; Times: 2
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "astyanax san luis potosi" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "sphoeroides nephelus" ; Times: 1
+	Query: "scientificname:(Carpiodes cyprinus OR Carpiodes cyprinus cyprinus OR Carpiodes forbesi OR Carpiodes cyprinus forbesi) country:United States mappable:1" ; Times: 1
+	Query: "noturus munitus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 846 download events in this period)
+Total number of records downloaded: 109
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bullfrog" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "river otter" ; Times: 1
+
+
+End of report.
