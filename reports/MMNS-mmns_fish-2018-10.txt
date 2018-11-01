@@ -1,0 +1,98 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 135
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Colombia ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-26 ; Times: 4
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-02 ; Times: 5
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 8
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 6
+	Date: 2018-10-27 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 12
+	Query: "A-26050" ; Times: 1
+	Query: "20614" ; Times: 2
+	Query: "San Luis Potosí fishes" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "Barge marinus" ; Times: 1
+	Query: "Lampetra tridentata mappable:1" ; Times: 1
+	Query: "Syngnathus louisianae mappable:1" ; Times: 1
+	Query: "32087" ; Times: 1
+	Query: "53280" ; Times: 2
+	Query: "Syngnathus floridae mappable:1" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "Erythrogaster Ohio" ; Times: 1
+	Query: "15546" ; Times: 1
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "53793" ; Times: 1
+	Query: "san luis potosi fishes" ; Times: 2
+	Query: "63225" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "Oncorhynchus mykiss gairdneri mappable:1" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "Syngnathus louisianae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1300 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Etheostoma mariae" ; Times: 1
+	Query: "san luis potosi fishes" ; Times: 1
+
+
+End of report.
