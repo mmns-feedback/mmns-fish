@@ -1,0 +1,99 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 782
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 63
+	Country: Italy ; Times: 7
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 4
+	Date: 2018-11-23 ; Times: 7
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-11 ; Times: 1
+	Date: 2018-11-05 ; Times: 1
+	Date: 2018-11-13 ; Times: 1
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-25 ; Times: 9
+	Date: 2018-11-27 ; Times: 3
+	Date: 2018-11-26 ; Times: 8
+	Date: 2018-11-21 ; Times: 3
+	Date: 2018-11-30 ; Times: 29
+	Date: 2018-11-28 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Alosa sapidissima mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 33
+	Query: "Alosa chrysochloris mappable:1" ; Times: 1
+	Query: "Cyclopsetta chittendeni mappable:1" ; Times: 1
+	Query: "nola" ; Times: 1
+	Query: "41170" ; Times: 1
+	Query: "Carcharhinus leucas mappable:1" ; Times: 1
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "62637" ; Times: 1
+	Query: "27647" ; Times: 1
+	Query: "23341" ; Times: 1
+	Query: "Ctenogobius boleosoma mappable:1" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 1
+	Query: "Cynoscion nothus mappable:1" ; Times: 1
+	Query: "Bellator militaris mappable:1" ; Times: 1
+	Query: "Alosa pseudoharengus mappable:1" ; Times: 1
+	Query: "Achirus lineatus mappable:1" ; Times: 1
+	Query: "Brotula barbata mappable:1" ; Times: 1
+	Query: "Echeneis naucrates mappable:1" ; Times: 1
+	Query: "Caranx hippos mappable:1" ; Times: 1
+	Query: "45122" ; Times: 2
+	Query: "Ancylopsetta ommata mappable:1" ; Times: 2
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 1
+	Query: "Etropus crossotus mappable:1" ; Times: 1
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "45657" ; Times: 1
+	Query: "Bagre marinus mappable:1" ; Times: 1
+	Query: "Ariopsis felis mappable:1" ; Times: 1
+	Query: "28904" ; Times: 1
+	Query: "28134" ; Times: 1
+	Query: "Bollmannia communis mappable:1" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 1
+	Query: "27770" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "Brevoortia patronus mappable:1" ; Times: 1
+	Query: "Eucinostomus gula mappable:1" ; Times: 1
+	Query: "Eucinostomus harengulus mappable:1" ; Times: 1
+	Query: "Cynoscion nebulosus mappable:1" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 1
+	Query: "tshawytscha" ; Times: 1
+	Query: "Astroscopus y mappable:1" ; Times: 1
+	Query: "Centropristis philadelphica mappable:1" ; Times: 1
+	Query: "Cynoscion arenarius mappable:1" ; Times: 1
+	Query: "Diplectrum bivittatum mappable:1" ; Times: 1
+	Query: "Chaetodipterus faber mappable:1" ; Times: 1
+	Query: "Boops boops mappable:1" ; Times: 1
+	Query: "Chloroscombrus chrysurus mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "44392" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1719 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "opsanus beta" ; Times: 1
+
+
+End of report.
