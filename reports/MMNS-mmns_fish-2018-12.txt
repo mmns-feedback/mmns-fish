@@ -1,0 +1,191 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 1306
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 96
+	Country: United States ; Times: 57
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-05 ; Times: 24
+	Date: 2018-12-03 ; Times: 12
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-06 ; Times: 55
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-14 ; Times: 3
+	Date: 2018-12-17 ; Times: 8
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-11 ; Times: 20
+	Date: 2018-12-04 ; Times: 4
+	Date: 2018-12-07 ; Times: 19
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 3
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 1
+	Query: "Urophycis floridana mappable:1" ; Times: 1
+	Query: "Hippocampus erectus" ; Times: 1
+	Query: "Trachurus trachurus mappable:1" ; Times: 2
+	Query: "Lutjanus campechanus mappable:1" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 1
+	Query: "Gobiesox strumosus mappable:1" ; Times: 1
+	Query: "Syngnathus scovelli mappable:1" ; Times: 1
+	Query: "Archosargus probatocephalus mappable:1" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "Raja texana mappable:1" ; Times: 1
+	Query: "Syngnathus floridae mappable:1" ; Times: 2
+	Query: "34884" ; Times: 1
+	Query: "34885" ; Times: 2
+	Query: "Stellifer lanceolatus mappable:1" ; Times: 1
+	Query: "Synodus foetens mappable:1" ; Times: 1
+	Query: "Scorpaena plumieri mappable:1" ; Times: 1
+	Query: "Ophichthus gomesii mappable:1" ; Times: 1
+	Query: "Paralichthys albigutta mappable:1" ; Times: 1
+	Query: "Scorpaena calcarata mappable:1" ; Times: 1
+	Query: "north midden" ; Times: 4
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis rubellus) country:United States mappable:1" ; Times: 3
+	Query: "Myrophis punctatus mappable:1" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 1
+	Query: "sea turtle" ; Times: 3
+	Query: "46137" ; Times: 2
+	Query: "Sphoeroides testudineus mappable:1" ; Times: 1
+	Query: "Urophycis cirrata mappable:1" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 1
+	Query: "Sphoeroides nephelus mappable:1" ; Times: 1
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "35923" ; Times: 1
+	Query: "Pogonias cromis mappable:1" ; Times: 1
+	Query: "Syngnathus louisianae" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "25721" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "Opsanus beta mappable:1" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Prionotus scitulus mappable:1" ; Times: 1
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "Sphyrna tiburo mappable:1" ; Times: 1
+	Query: "Menticirrhus saxatilis mappable:1" ; Times: 1
+	Query: "Saurida brasiliensis mappable:1" ; Times: 1
+	Query: "Larimus fasciatus mappable:1" ; Times: 1
+	Query: "Mugil curema mappable:1" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "Porichthys plectrodon mappable:1" ; Times: 1
+	Query: "Scomberomorus maculatus mappable:1" ; Times: 1
+	Query: "Ogcocephalus pantostictus mappable:1" ; Times: 1
+	Query: "Rhynchoconger flavus mappable:1" ; Times: 1
+	Query: "Orthopristis chrysoptera mappable:1" ; Times: 1
+	Query: "Steindachneria argentea mappable:1" ; Times: 1
+	Query: "Trachinotus carolinus mappable:1" ; Times: 1
+	Query: "Sphoeroides parvus mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 1
+	Query: "Ophidion welshi mappable:1" ; Times: 1
+	Query: "Symphurus plagiusa mappable:1" ; Times: 1
+	Query: "Haemulon plumierii mappable:1" ; Times: 1
+	Query: "Paralichthys lethostigma mappable:1" ; Times: 1
+	Query: "33307" ; Times: 2
+	Query: "Sphyraena guachancho mappable:1" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "19858" ; Times: 1
+	Query: "Symphurus civitatium mappable:1" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "Salmo salar mappable:1" ; Times: 1
+	Query: "Lutjanus synagris mappable:1" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "Trachurus lathami mappable:1" ; Times: 1
+	Query: "Uroconger syringinus mappable:1" ; Times: 1
+	Query: "scientificname:(Carpiodes cyprinus OR Carpiodes cyprinus cyprinus OR Carpiodes forbesi OR Carpiodes cyprinus forbesi) country:United States mappable:1" ; Times: 1
+	Query: "Stegastes partitus mappable:1" ; Times: 1
+	Query: "Syngnathus louisianae mappable:1" ; Times: 2
+	Query: "Symphurus diomedeanus mappable:1" ; Times: 1
+	Query: "Prionotus tribulus mappable:1" ; Times: 1
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "americanus clarke" ; Times: 1
+	Query: "Morone saxatilis mappable:1" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 1
+	Query: "Gobiosoma bosc mappable:1" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "Peprilus burti mappable:1" ; Times: 1
+	Query: "Gymnachirus texae mappable:1" ; Times: 1
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "Ophidion josephi mappable:1" ; Times: 1
+	Query: "Peprilus paru mappable:1" ; Times: 1
+	Query: "Microgobius gulosus mappable:1" ; Times: 1
+	Query: "39747" ; Times: 1
+	Query: "Syngnathus scovelli" ; Times: 1
+	Query: "Stenotomus caprinus mappable:1" ; Times: 1
+	Query: "scientificname:(Luxilus coccogenis OR Notropis coccogenis) country:United States mappable:1" ; Times: 3
+	Query: "Strongylura marina mappable:1" ; Times: 1
+	Query: "Peprilus triacanthus mappable:1" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Oncorhynchus kisutch mappable:1" ; Times: 1
+	Query: "Hypleurochilus geminatus mappable:1" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "Lutjanus griseus mappable:1" ; Times: 1
+	Query: "Sciaenops ocellatus mappable:1" ; Times: 1
+	Query: "Selene setapinnis mappable:1" ; Times: 1
+	Query: "Oncorhynchus tshawytscha mappable:1" ; Times: 1
+	Query: "Hemicaranx amblyrhynchus mappable:1" ; Times: 1
+	Query: "Microgobius thalassinus mappable:1" ; Times: 1
+	Query: "Micropogonias undulatus mappable:1" ; Times: 1
+	Query: "Osmerus mordax mappable:1" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 2
+	Query: "Menticirrhus littoralis mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "Prionotus roseus mappable:1" ; Times: 1
+	Query: "19926" ; Times: 1
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "Mycteroperca microlepis mappable:1" ; Times: 1
+	Query: "Lepophidium brevibarbe mappable:1" ; Times: 1
+	Query: "Membras martinica mappable:1" ; Times: 1
+	Query: "scientificname:(Carpiodes carpio) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "Oligoplites saurus mappable:1" ; Times: 1
+	Query: "45407" ; Times: 1
+	Query: "Pomatomus saltatrix mappable:1" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "Prionotus rubio mappable:1" ; Times: 1
+	Query: "35439" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 809 download events in this period)
+Total number of records downloaded: 100
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+
+
+End of report.
