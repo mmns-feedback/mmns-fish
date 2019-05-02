@@ -1,0 +1,114 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 421
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 18
+	Date: 2019-04-02 ; Times: 6
+	Date: 2019-04-05 ; Times: 4
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-26 ; Times: 6
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 7
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 2
+	Query: "49917" ; Times: 2
+	Query: "47737" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "50360" ; Times: 1
+	Query: "Spartina alterniflora mappable:1" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Pygocentrus nattereri mappable:1" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "institutioncode:MMNS" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "Bagre bagre mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "30274" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "locality:black slough" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "oreochromis niloticus" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "Menticirrhus littoralis mappable:1" ; Times: 1
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "46954" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "53583" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "18900" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1263 download events in this period)
+Total number of records downloaded: 56
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Delhi" ; Times: 1
+	Query: "Sander vitreus" ; Times: 1
+
+
+End of report.
