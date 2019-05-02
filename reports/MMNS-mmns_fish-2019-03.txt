@@ -1,0 +1,104 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 121
+Number of records retrieved in searches: 169
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Netherlands ; Times: 13
+	Country: France ; Times: 86
+	Country: United States ; Times: 12
+	Country: Belgium ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 10
+	Date: 2019-03-11 ; Times: 8
+	Date: 2019-03-01 ; Times: 20
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-31 ; Times: 11
+	Date: 2019-03-08 ; Times: 15
+	Date: 2019-03-18 ; Times: 2
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-04 ; Times: 7
+	Date: 2019-03-14 ; Times: 10
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-12 ; Times: 4
+	Date: 2019-03-07 ; Times: 20
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "percina rex" ; Times: 1
+	Query: "noturus placidus" ; Times: 3
+	Query: "54495" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "geese" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 6
+	Query: "54471" ; Times: 1
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "33977" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 9
+	Query: "15285" ; Times: 1
+	Query: "Selene setapinnis mappable:1" ; Times: 3
+	Query: "Cephalopholis fulva mappable:1" ; Times: 2
+	Query: "oysters" ; Times: 1
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Brotula barbata mappable:1" ; Times: 5
+	Query: "39771" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "Symphurus diomedeanus mappable:1" ; Times: 9
+	Query: "CMC" ; Times: 1
+	Query: "11583" ; Times: 1
+	Query: "37157" ; Times: 1
+	Query: "locality:coon island" ; Times: 1
+	Query: "21113" ; Times: 1
+	Query: "62264" ; Times: 1
+	Query: "Rypticus saponaceus mappable:1" ; Times: 4
+	Query: "56147" ; Times: 1
+	Query: "erythrogaster ohio" ; Times: 2
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 2
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 8
+	Query: "Opisthonema oglinum" ; Times: 6
+	Query: "Epinephelus striatus mappable:1" ; Times: 2
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 3
+	Query: "Peprilus paru mappable:1" ; Times: 2
+	Query: "25127" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "Scorpaena plumieri mappable:1" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 8
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 2
+	Query: "Haemulon plumierii mappable:1" ; Times: 8
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 2
+	Query: "sea turtle" ; Times: 1
+	Query: "60925" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "48319" ; Times: 1
+	Query: "Sphyraena guachancho mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1281 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
