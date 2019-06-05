@@ -1,0 +1,141 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 245
+Number of records retrieved in searches: 535
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 26
+	Country: United States ; Times: 25
+	Country: Saudi Arabia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 167
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: New Zealand ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-31 ; Times: 5
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-06 ; Times: 9
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-25 ; Times: 62
+	Date: 2019-05-24 ; Times: 13
+	Date: 2019-05-27 ; Times: 14
+	Date: 2019-05-26 ; Times: 46
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-20 ; Times: 7
+	Date: 2019-05-23 ; Times: 32
+	Date: 2019-05-22 ; Times: 7
+	Date: 2019-05-29 ; Times: 10
+	Date: 2019-05-28 ; Times: 6
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 4
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-16 ; Times: 1
+	Date: 2019-05-17 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "31985" ; Times: 1
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Raja texana" ; Times: 1
+	Query: "noturus placidus" ; Times: 10
+	Query: "Upeneus parvus mappable:1" ; Times: 2
+	Query: "47124" ; Times: 26
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 13
+	Query: "Lutjanus synagris mappable:1" ; Times: 9
+	Query: "54721" ; Times: 1
+	Query: "Selene setapinnis mappable:1" ; Times: 2
+	Query: "Cephalopholis fulva mappable:1" ; Times: 7
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "59408" ; Times: 1
+	Query: "Brotula barbata mappable:1" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Exoglossum laurae) country:United States mappable:1" ; Times: 1
+	Query: "Symphurus diomedeanus mappable:1" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 1
+	Query: "Peprilus paru mappable:1" ; Times: 1
+	Query: "Gambusia gaigei" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 1
+	Query: "Alternanthera philoxeroides" ; Times: 2
+	Query: "34130" ; Times: 1
+	Query: "Rypticus saponaceus mappable:1" ; Times: 2
+	Query: "34176" ; Times: 1
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 7
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 17
+	Query: "24880" ; Times: 1
+	Query: "Epinephelus striatus mappable:1" ; Times: 7
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 11
+	Query: "Oligoplites saurus mappable:1" ; Times: 2
+	Query: "Opisthonema oglinum mappable:1" ; Times: 1
+	Query: "scientificname:(Carpiodes cyprinus OR Carpiodes cyprinus cyprinus OR Carpiodes forbesi OR Carpiodes cyprinus forbesi) country:United States mappable:1" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "Scorpaena plumieri mappable:1" ; Times: 5
+	Query: "Dugan" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 17
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 3
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "Haemulon plumierii mappable:1" ; Times: 11
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "Crystallaria cincotta" ; Times: 2
+	Query: "Holocentrus rufus mappable:1" ; Times: 11
+	Query: "Haemulon sciurus mappable:1" ; Times: 12
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Lutjanus griseus mappable:1" ; Times: 10
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "Chloroscombrus chrysurus mappable:1" ; Times: 2
+	Query: "18900" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "Sphyraena guachancho mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 940 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
