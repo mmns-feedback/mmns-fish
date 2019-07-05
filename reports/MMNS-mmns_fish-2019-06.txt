@@ -1,0 +1,123 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 174
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 21
+	Country: United States ; Times: 27
+	Country: Australia ; Times: 6
+	Country: Ecuador ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: New Zealand ; Times: 17
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 4
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-22 ; Times: 1
+	Date: 2019-06-24 ; Times: 4
+	Date: 2019-06-25 ; Times: 6
+	Date: 2019-06-27 ; Times: 9
+	Date: 2019-06-06 ; Times: 11
+	Date: 2019-06-02 ; Times: 21
+	Date: 2019-06-04 ; Times: 7
+	Date: 2019-06-05 ; Times: 9
+	Date: 2019-06-11 ; Times: 7
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-13 ; Times: 3
+	Date: 2019-06-01 ; Times: 3
+	Date: 2019-06-30 ; Times: 8
+	Date: 2019-06-28 ; Times: 4
+	Date: 2019-06-14 ; Times: 2
+	Date: 2019-06-29 ; Times: 1
+	Date: 2019-06-10 ; Times: 5
+	Date: 2019-06-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "59890" ; Times: 1
+	Query: "noturus placidus" ; Times: 2
+	Query: "geese" ; Times: 2
+	Query: "26903" ; Times: 1
+	Query: "Mud sunfish" ; Times: 6
+	Query: "58088" ; Times: 1
+	Query: "41484" ; Times: 2
+	Query: "41814" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "Raja texana" ; Times: 2
+	Query: "57804" ; Times: 1
+	Query: "38252" ; Times: 1
+	Query: "39671" ; Times: 1
+	Query: "carex" ; Times: 1
+	Query: "madison jones" ; Times: 1
+	Query: "53753" ; Times: 2
+	Query: "53973" ; Times: 1
+	Query: "43054" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "28317" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "30586" ; Times: 1
+	Query: "butterfish" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 2
+	Query: "61002" ; Times: 1
+	Query: "Nola" ; Times: 1
+	Query: "44785" ; Times: 1
+	Query: "US 66-61" ; Times: 1
+	Query: "53536" ; Times: 1
+	Query: "40509" ; Times: 1
+	Query: "53533" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 2
+	Query: "SP 5639" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 9
+	Query: "16616" ; Times: 1
+	Query: "Pristis pristis" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "sea turtle" ; Times: 2
+	Query: "25978" ; Times: 1
+	Query: "Haemulon plumierii mappable:1" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 9
+	Query: "42001" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 2
+	Query: "42086" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "20971" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "54126" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1182 download events in this period)
+Total number of records downloaded: 274
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-06 ; Times: 7
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-04 ; Times: 5
+	Date: 2019-06-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "geese" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 2
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "cougar" ; Times: 5
+	Query: "black bear" ; Times: 2
+	Query: "Cougar" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "newt" ; Times: 5
+
+
+End of report.
