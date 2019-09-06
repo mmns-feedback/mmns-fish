@@ -1,0 +1,96 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 328
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 23
+	Country: Canada ; Times: 7
+	Country: India ; Times: 1
+	Country: France ; Times: 14
+	Country: United Kingdom ; Times: 10
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-07 ; Times: 3
+	Date: 2019-08-19 ; Times: 5
+	Date: 2019-08-16 ; Times: 9
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-05 ; Times: 14
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-08 ; Times: 8
+	Date: 2019-08-25 ; Times: 3
+	Date: 2019-08-22 ; Times: 4
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambloplites constellatus" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "noturus placidus" ; Times: 3
+	Query: "Upeneus parvus mappable:1" ; Times: 6
+	Query: "fieldnumber:1380" ; Times: 1
+	Query: "40513" ; Times: 1
+	Query: "Ameiurus brunneus" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "Pristis pECTINATA" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "Micropterus henshalli" ; Times: 3
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "duquesni" ; Times: 6
+	Query: "24292" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "29919" ; Times: 1
+	Query: "Pygocentrus nattereri" ; Times: 1
+	Query: "56339" ; Times: 1
+	Query: "19485" ; Times: 1
+	Query: "Piaractus brachypomus" ; Times: 2
+	Query: "21879" ; Times: 1
+	Query: "24771" ; Times: 3
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 2
+	Query: "39641" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 2
+	Query: "NOTROPIS OZARCANUS" ; Times: 1
+	Query: "Preservation of Fishes" ; Times: 1
+	Query: "PERCINA NASUTA" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "Haemulon plumierii mappable:1" ; Times: 1
+	Query: "28575" ; Times: 3
+	Query: "28574" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "29929" ; Times: 1
+	Query: "28134" ; Times: 1
+	Query: "Latonia" ; Times: 1
+	Query: "Moxostoma duquesni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1034 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Potos" ; Times: 1
+
+
+End of report.
