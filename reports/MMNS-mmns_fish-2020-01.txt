@@ -1,0 +1,159 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 229
+Number of records retrieved in searches: 4772
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 60
+	Country: Canada ; Times: 1
+	Country: France ; Times: 162
+	Country: United Kingdom ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-01 ; Times: 63
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-05 ; Times: 69
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-23 ; Times: 3
+	Date: 2020-01-22 ; Times: 18
+	Date: 2020-01-24 ; Times: 6
+	Date: 2020-01-29 ; Times: 28
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-10 ; Times: 4
+	Date: 2020-01-11 ; Times: 3
+	Date: 2020-01-12 ; Times: 13
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-16 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "25179" ; Times: 1
+	Query: "chrysogaster Agosia" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "Cephalopholis fulva mappable:1" ; Times: 3
+	Query: "39813" ; Times: 1
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 3
+	Query: "m-36276" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 2
+	Query: "Rypticus saponaceus mappable:1" ; Times: 4
+	Query: "52543" ; Times: 1
+	Query: "Ophichthus gomesii mappable:1" ; Times: 6
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 3
+	Query: "percina nasuta" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 3
+	Query: "Anchoa lyolepis mappable:1" ; Times: 3
+	Query: "Sphoeroides nephelus mappable:1" ; Times: 2
+	Query: "Rachycentron canadum mappable:1" ; Times: 2
+	Query: "Chloroscombrus chrysurus mappable:1" ; Times: 2
+	Query: "O.58135" ; Times: 1
+	Query: "insignis Catostomus" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 3
+	Query: "scientificname:Menidia menidia mappable:1" ; Times: 12
+	Query: "Trichiurus lepturus mappable:1" ; Times: 4
+	Query: "Achirus lineatus mappable:1" ; Times: 3
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 3
+	Query: "18975" ; Times: 2
+	Query: "scientificname:Menidia clarkhubbsi mappable:1" ; Times: 1
+	Query: "mykiss Oncorhynchus" ; Times: 1
+	Query: "Citharichthys spilopterus mappable:1" ; Times: 3
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 3
+	Query: "Trachinotus carolinus mappable:1" ; Times: 2
+	Query: "Menidia menidia" ; Times: 6
+	Query: "scientificname:Menidia peninsulae mappable:1" ; Times: 1
+	Query: "fulgida Meda" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "Haemulon plumierii mappable:1" ; Times: 1
+	Query: "Carpiodes cyprinus" ; Times: 1
+	Query: "Chaetodipterus faber mappable:1" ; Times: 3
+	Query: "Sphyraena guachancho mappable:1" ; Times: 2
+	Query: "34814" ; Times: 1
+	Query: "41501" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 3
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 5
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 2
+	Query: "Lutjanus synagris mappable:1" ; Times: 1
+	Query: "Selene setapinnis mappable:1" ; Times: 2
+	Query: "recordedby:Ervin" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 3
+	Query: "Evorthodus lyricus mappable:1" ; Times: 1
+	Query: "Symphurus diomedeanus mappable:1" ; Times: 6
+	Query: "35114" ; Times: 2
+	Query: "Syacium gunteri mappable:1" ; Times: 5
+	Query: "Harengula jaguana mappable:1" ; Times: 3
+	Query: "Peprilus paru mappable:1" ; Times: 2
+	Query: "Scorpaena plumieri mappable:1" ; Times: 4
+	Query: "Symphurus plagiusa mappable:1" ; Times: 3
+	Query: "Stephanolepis hispidus mappable:1" ; Times: 5
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 2
+	Query: "62878" ; Times: 1
+	Query: "Lutjanus griseus mappable:1" ; Times: 1
+	Query: "Eleotris pisonis mappable:1" ; Times: 3
+	Query: "62875" ; Times: 1
+	Query: "54986" ; Times: 2
+	Query: "Micropogonias undulatus mappable:1" ; Times: 1
+	Query: "Ctenogobius boleosoma mappable:1" ; Times: 1
+	Query: "54378" ; Times: 1
+	Query: "Anchoa hepsetus mappable:1" ; Times: 2
+	Query: "Brotula barbata mappable:1" ; Times: 6
+	Query: "Dormitator maculatus mappable:1" ; Times: 3
+	Query: "scientificname:Membras martinica mappable:1" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "Etropus crossotus mappable:1" ; Times: 4
+	Query: "scientificname:Menidia beryllina mappable:1" ; Times: 6
+	Query: "pterygoplichthys disjunctivus" ; Times: 6
+	Query: "Lepophidium brevibarbe mappable:1" ; Times: 6
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 1
+	Query: "Epinephelus striatus mappable:1" ; Times: 3
+	Query: "order:cyprinodontiformes stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "Eucinostomus harengulus mappable:1" ; Times: 2
+	Query: "39597" ; Times: 2
+	Query: "Oligoplites saurus mappable:1" ; Times: 2
+	Query: "piaractus brachypomus" ; Times: 2
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 2
+	Query: "Holocentrus rufus mappable:1" ; Times: 6
+	Query: "Haemulon sciurus mappable:1" ; Times: 2
+	Query: "Diplectrum bivittatum mappable:1" ; Times: 2
+	Query: "scientificname:Menidia audens mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1584 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "pterygoplichthys disjunctivus" ; Times: 2
+	Query: "piaractus brachypomus" ; Times: 1
+
+
+End of report.
