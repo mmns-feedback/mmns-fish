@@ -1,0 +1,125 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 654
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 32
+	Country: United Kingdom ; Times: 8
+	Country: Colombia ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: New Zealand ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 7
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-27 ; Times: 2
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 15
+	Date: 2019-10-16 ; Times: 8
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-23 ; Times: 8
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-20 ; Times: 4
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "52049" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "63118" ; Times: 1
+	Query: "33502" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Raja texana" ; Times: 2
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "vitreus Sander" ; Times: 2
+	Query: "39463" ; Times: 1
+	Query: "Oreochromis sp" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "11817" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "18509" ; Times: 1
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "66686" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "Percina brevicauda" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "19803" ; Times: 1
+	Query: "SP 9397" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "64055" ; Times: 1
+	Query: "percina nasuta" ; Times: 2
+	Query: "54212" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "52627" ; Times: 1
+	Query: "50567" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "menidia audens" ; Times: 2
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "28676" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1308 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina nasuta" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+
+
+End of report.
