@@ -1,0 +1,130 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 1159
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 74
+	Country: Belgium ; Times: 1
+	Country: France ; Times: 9
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-04 ; Times: 15
+	Date: 2020-02-27 ; Times: 6
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-03 ; Times: 30
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-02 ; Times: 7
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "scientificname:Upeneus parvus mappable:1" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "Upeneus parvus mappable:1" ; Times: 2
+	Query: "36877" ; Times: 1
+	Query: "scientificname:(Notropis shumardi) country:United States mappable:1" ; Times: 3
+	Query: "39343" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "scientificname:(Etheostoma pallididorsum) country:United States mappable:1" ; Times: 1
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "scientificname:(Noturus munitus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Carpiodes cyprinus OR Carpiodes cyprinus cyprinus OR Carpiodes forbesi OR Carpiodes cyprinus forbesi) country:United States mappable:1" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "recordedby:Adcock" ; Times: 1
+	Query: "scientificname:(Exoglossum laurae) country:United States mappable:1" ; Times: 1
+	Query: "Eucinostomus harengulus mappable:1" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "scientificname:(Etheostoma tippecanoe) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "pantostictus" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis perpallidus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis ozarcanus) country:United States mappable:1" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "Sea turtle" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma simoterum OR Etheostoma simoterum simoterum) country:United States mappable:1" ; Times: 3
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "26348" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "17179" ; Times: 1
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Noturus nocturnus) country:United States mappable:1" ; Times: 3
+	Query: "26637" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Exoglossum maxillingua) country:United States mappable:1" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "scientificname:(Noturus insignis) country:United States mappable:1" ; Times: 4
+	Query: "scientificname:(Gambusia affinis OR Gambusia patruelis OR Gambusia affinis affinis OR Gambusia holbrooki) country:United States mappable:1" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "scientificname:(Semotilus corporalis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Percina macrolepida) country:United States mappable:1" ; Times: 1
+	Query: "55671" ; Times: 1
+	Query: "scientificname:(Noturus gladiator) country:United States mappable:1" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "scientificname:(Hypentelium roanokense) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Pimephales tenellus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Fundulus jenkinsi) country:United States mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1023 download events in this period)
+Total number of records downloaded: 2180
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+
+
+End of report.
