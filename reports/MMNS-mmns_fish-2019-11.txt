@@ -1,0 +1,125 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 183
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 65
+	Country: Singapore ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 2
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 8
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-06 ; Times: 10
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 6
+	Date: 2019-11-16 ; Times: 4
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-15 ; Times: 19
+	Date: 2019-11-14 ; Times: 14
+	Date: 2019-11-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "55549" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "52292" ; Times: 1
+	Query: "54056" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "Cyprinella vensuta" ; Times: 2
+	Query: "45295" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "North Midden" ; Times: 2
+	Query: "trichiurus lepturus vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "54721" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "55422" ; Times: 1
+	Query: "Lythrurus lirus" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "61132" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "Sphyraena barracuda vntype:specimen year &gt;= 2000" ; Times: 2
+	Query: "20605" ; Times: 1
+	Query: "54548" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "54464" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "MMNS 1890" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "Acrocheilus alutaceus" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "henke" ; Times: 2
+	Query: "17921" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "56080" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1367 download events in this period)
+Total number of records downloaded: 905
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acrocheilus alutaceus" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
