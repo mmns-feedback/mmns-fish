@@ -1,0 +1,105 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 252
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 12
+	Country: Ireland ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Peru ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 5
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-22 ; Times: 4
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-12 ; Times: 3
+	Date: 2020-08-28 ; Times: 3
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 4
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-23 ; Times: 3
+	Date: 2020-08-19 ; Times: 3
+	Date: 2020-08-21 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "56164" ; Times: 2
+	Query: "35359" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "25785" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "percina nasuta" ; Times: 2
+	Query: "R 52046" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Hybopsis aestivalis" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "32206" ; Times: 1
+	Query: "scientificname:(Fundulus rathbuni) country:United States mappable:1" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "52769" ; Times: 1
+	Query: "Fundulus zebrinus (pecos) AND (texas)" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "19285" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "29224" ; Times: 2
+	Query: "45388" ; Times: 1
+	Query: "Cottus bairdi" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "M-46785" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "Ameiurus serracanthus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 756 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
