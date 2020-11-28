@@ -1,0 +1,95 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 456
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: United Arab Emirates ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 13
+	Country: United States ; Times: 15
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-16 ; Times: 5
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 5
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-18 ; Times: 5
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 4
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "27933" ; Times: 1
+	Query: "16649" ; Times: 1
+	Query: "32708" ; Times: 3
+	Query: "Ruvettus pretiosus" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "Megalops atlanticus country:&#34;United States&#34;" ; Times: 2
+	Query: "Caranx hippos" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "65175" ; Times: 1
+	Query: "mmns" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "catenatus Missouri" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "16892" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "63240" ; Times: 1
+	Query: "16952" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "16794" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "sea turtle" ; Times: 2
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "gbifdatasetid:175d2868-a330-4179-ba25-35da91a8214d" ; Times: 3
+	Query: "38572" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "31504" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "11923" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 976 download events in this period)
+Total number of records downloaded: 1775
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia" ; Times: 1
+
+
+End of report.
