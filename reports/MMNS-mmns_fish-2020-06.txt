@@ -1,0 +1,88 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 159
+Number of records retrieved in searches: 2839
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Peru ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 143
+	Country: Ireland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 4
+	Date: 2020-06-18 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-15 ; Times: 9
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-11 ; Times: 63
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-10 ; Times: 63
+	Date: 2020-06-17 ; Times: 9
+	Date: 2020-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 3
+	Query: "Salmo salar" ; Times: 9
+	Query: "scientificname:(Agonostomus monticola) country:United States mappable:1" ; Times: 2
+	Query: "Cottus carolinae" ; Times: 5
+	Query: "37841" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "Colossoma macropomum" ; Times: 6
+	Query: "Arius arius" ; Times: 12
+	Query: "Pygocentrus nattereri" ; Times: 6
+	Query: "Hypophthalmichthys nobilis" ; Times: 6
+	Query: "Piaractus brachypomus" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "Carassius auratus" ; Times: 6
+	Query: "59011" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "RT 287" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "sea turtle" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "RT 286" ; Times: 2
+	Query: "scientificname:(Lutjanus griseus) country:United States mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 474 download events in this period)
+Total number of records downloaded: 23
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Etheostoma kanawhae" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+
+
+End of report.
