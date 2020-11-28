@@ -1,0 +1,152 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 1145
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 100
+	Country: United States ; Times: 21
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-21 ; Times: 6
+	Date: 2020-07-11 ; Times: 4
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-29 ; Times: 5
+	Date: 2020-07-02 ; Times: 12
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-14 ; Times: 4
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-20 ; Times: 3
+	Date: 2020-07-07 ; Times: 91
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "58955" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "locality:Sipsey county:&#34;Pickens&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Cephalopholis fulva mappable:1" ; Times: 2
+	Query: "Megalops atlanticus mappable:1" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 3
+	Query: "32839" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 2
+	Query: "Rypticus saponaceus mappable:1" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "Ophichthus gomesii mappable:1" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 2
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "Sphoeroides nephelus mappable:1" ; Times: 2
+	Query: "Rachycentron canadum mappable:1" ; Times: 1
+	Query: "Chloroscombrus chrysurus mappable:1" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 3
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Achirus lineatus mappable:1" ; Times: 2
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "Sphyrna tiburo mappable:1" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 2
+	Query: "Trachinotus carolinus mappable:1" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 1
+	Query: "Chaetodon striatus mappable:1" ; Times: 2
+	Query: "Symphurus plagiusa mappable:1" ; Times: 2
+	Query: "Haemulon plumierii mappable:1" ; Times: 2
+	Query: "M-16350" ; Times: 2
+	Query: "44107" ; Times: 1
+	Query: "Chaetodipterus faber mappable:1" ; Times: 3
+	Query: "Sphyraena guachancho mappable:1" ; Times: 1
+	Query: "Cycleptus elongatus" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 2
+	Query: "Lutjanus synagris mappable:1" ; Times: 2
+	Query: "Selene setapinnis mappable:1" ; Times: 1
+	Query: "47000" ; Times: 2
+	Query: "Pristis pectinata mappable:1" ; Times: 2
+	Query: "Evorthodus lyricus mappable:1" ; Times: 3
+	Query: "Symphurus diomedeanus mappable:1" ; Times: 1
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "Peprilus paru mappable:1" ; Times: 1
+	Query: "Scorpaena plumieri mappable:1" ; Times: 2
+	Query: "Centropomus undecimalis mappable:1" ; Times: 3
+	Query: "Stephanolepis hispidus mappable:1" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Lutjanus griseus mappable:1" ; Times: 2
+	Query: "Eleotris pisonis mappable:1" ; Times: 3
+	Query: "locality:Sipsey county:&#34;Greene&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Micropogonias undulatus mappable:1" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "Ctenogobius boleosoma mappable:1" ; Times: 3
+	Query: "21252" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "Brotula barbata mappable:1" ; Times: 1
+	Query: "Dormitator maculatus mappable:1" ; Times: 3
+	Query: "42543" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "28078" ; Times: 2
+	Query: "37676" ; Times: 1
+	Query: "Etropus crossotus mappable:1" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "Lepophidium brevibarbe mappable:1" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 2
+	Query: "Epinephelus striatus mappable:1" ; Times: 2
+	Query: "27947" ; Times: 2
+	Query: "Eucinostomus harengulus mappable:1" ; Times: 3
+	Query: "21099" ; Times: 1
+	Query: "Citharichthys spilopterus mappable:1" ; Times: 3
+	Query: "Oreochromis niloticus mappable:1" ; Times: 2
+	Query: "Oligoplites saurus mappable:1" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 2
+	Query: "Haemulon sciurus mappable:1" ; Times: 2
+	Query: "Diplectrum bivittatum mappable:1" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "41449" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 940 download events in this period)
+Total number of records downloaded: 54
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Sipsey county:&#34;Greene&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "locality:Sipsey county:&#34;Pickens&#34; stateprovince:&#34;Alabama&#34;" ; Times: 2
+
+
+End of report.
