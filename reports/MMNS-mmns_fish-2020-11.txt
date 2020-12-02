@@ -1,0 +1,139 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 2187
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: United States ; Times: 42
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 20
+	Country: United Kingdom ; Times: 47
+	Country: Ecuador ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-30 ; Times: 3
+	Date: 2020-11-05 ; Times: 6
+	Date: 2020-11-24 ; Times: 15
+	Date: 2020-11-18 ; Times: 2
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-27 ; Times: 4
+	Date: 2020-11-06 ; Times: 2
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-04 ; Times: 17
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-02 ; Times: 45
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-26 ; Times: 13
+	Date: 2020-11-23 ; Times: 7
+	Date: 2020-11-25 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "30186" ; Times: 1
+	Query: "Salmo salar" ; Times: 5
+	Query: "Sander canadensis" ; Times: 2
+	Query: "Acipenser fulvescens" ; Times: 1
+	Query: "scientificname:(Erimystax harryi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Percina rex OR Etheostoma rex) country:United States mappable:1" ; Times: 1
+	Query: "Trachurus lathami" ; Times: 1
+	Query: "46277" ; Times: 1
+	Query: "scientificname:(Notropis sabinae) country:United States mappable:1" ; Times: 2
+	Query: "Elops saurus" ; Times: 1
+	Query: "Lepomis punctatus" ; Times: 1
+	Query: "37865" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "scientificname:(Percina aurora) country:United States mappable:1" ; Times: 1
+	Query: "63396" ; Times: 1
+	Query: "13425" ; Times: 1
+	Query: "28568" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "Exoglossum laurae" ; Times: 9
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "scientificname:(Noturus hildebrandi) country:United States mappable:1" ; Times: 1
+	Query: "Cephalopholis fulva" ; Times: 2
+	Query: "Cottus aleuticus" ; Times: 1
+	Query: "Hirundichthys rondeletii" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Lepomis miniatus" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 2
+	Query: "scientificname:(Fundulus euryzonus) country:United States mappable:1" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "scientificname:(Notropis rafinesquei) country:United States mappable:1" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "22086" ; Times: 1
+	Query: "scientificname:(Noturus phaeus) country:United States mappable:1" ; Times: 2
+	Query: "50647" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 3
+	Query: "Phoxinus phoxinus" ; Times: 2
+	Query: "Hypophthalmichthys nobilis" ; Times: 2
+	Query: "Lampetra aepyptera" ; Times: 1
+	Query: "47889" ; Times: 1
+	Query: "53616" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "23496" ; Times: 2
+	Query: "Carassius auratus" ; Times: 1
+	Query: "62435" ; Times: 2
+	Query: "belonesox" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 2
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "51561" ; Times: 1
+	Query: "32554" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "exoglossum laurae" ; Times: 2
+	Query: "scientificname:Alosa alosa" ; Times: 20
+	Query: "35575" ; Times: 1
+	Query: "ditrema" ; Times: 1
+	Query: "NOTURUS LACHNERI" ; Times: 1
+	Query: "51046" ; Times: 1
+	Query: "13603" ; Times: 1
+	Query: "Carassius carassius" ; Times: 1
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 2
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 2
+	Query: "Selene setapinnis" ; Times: 1
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 2
+	Query: "Entosphenus tridentatus" ; Times: 1
+	Query: "scientificname:(Etheostoma zonistium) country:United States mappable:1" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "15255" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 1
+	Query: "Ditrema" ; Times: 6
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "scientificname:(Etheostoma raneyi) country:United States mappable:1" ; Times: 1
+	Query: "60802" ; Times: 1
+	Query: "percina aurolineata" ; Times: 1
+	Query: "Lutjanus griseus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 842 download events in this period)
+Total number of records downloaded: 75
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "black bear" ; Times: 1
+
+
+End of report.
