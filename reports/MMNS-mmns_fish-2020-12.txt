@@ -1,0 +1,137 @@
+Report for Institution Code MMNS, Resource mmns_fish
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 686
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 31
+	Country: United Kingdom ; Times: 27
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 6
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-09 ; Times: 4
+	Date: 2020-12-08 ; Times: 11
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-04 ; Times: 11
+	Date: 2020-12-03 ; Times: 11
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-01 ; Times: 7
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-24 ; Times: 3
+	Date: 2020-12-20 ; Times: 5
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-10 ; Times: 4
+	Date: 2020-12-11 ; Times: 4
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 8
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "35966" ; Times: 1
+	Query: "27650" ; Times: 1
+	Query: "60372" ; Times: 1
+	Query: "(21726)" ; Times: 1
+	Query: "41264" ; Times: 1
+	Query: "fundulus grandis texas" ; Times: 2
+	Query: "scientificname:Trachurus trachurus" ; Times: 4
+	Query: "scientificname:Caranx hippos" ; Times: 1
+	Query: "scientificname:Ruvettus pretiosus" ; Times: 1
+	Query: "17519" ; Times: 1
+	Query: "Ameiurus brunneus" ; Times: 2
+	Query: "scientificname:Pomatomus saltatrix" ; Times: 1
+	Query: "scientificname:Rachycentron canadum" ; Times: 1
+	Query: "41740" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "25113" ; Times: 1
+	Query: "scientificname:Hippocampus hippocampus" ; Times: 4
+	Query: "35101" ; Times: 1
+	Query: "30727" ; Times: 1
+	Query: "Notropis telescopus" ; Times: 1
+	Query: "Newtonia" ; Times: 1
+	Query: "Anchoa hepsetus" ; Times: 1
+	Query: "41856" ; Times: 1
+	Query: "scientificname:Trichiurus lepturus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "Sciaenops ocellatus" ; Times: 1
+	Query: "17310" ; Times: 1
+	Query: "scientificname:Boops boops" ; Times: 6
+	Query: "Clarias batrachus" ; Times: 2
+	Query: "scientificname:Lagocephalus lagocephalus" ; Times: 1
+	Query: "Novumbra hubbsi" ; Times: 1
+	Query: "scientificname:Sphyrna lewini" ; Times: 1
+	Query: "Anchoa mitchilli" ; Times: 1
+	Query: "55866" ; Times: 1
+	Query: "Hypophthalmichthys nobilis" ; Times: 2
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "scientificname:Petromyzon marinus" ; Times: 1
+	Query: "Lagodon rhomboides" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "36800" ; Times: 1
+	Query: "Larimus fasciatus" ; Times: 1
+	Query: "49709" ; Times: 1
+	Query: "25529" ; Times: 1
+	Query: "scientificname:Pristis pectinata" ; Times: 1
+	Query: "24209" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "Anchoa lyolepis" ; Times: 1
+	Query: "19907" ; Times: 1
+	Query: "scientificname:Echeneis naucrates" ; Times: 1
+	Query: "25857" ; Times: 1
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 3
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "42634" ; Times: 1
+	Query: "scientificname:Carcharhinus limbatus" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "37189" ; Times: 1
+	Query: "26360" ; Times: 1
+	Query: "43687" ; Times: 1
+	Query: "26573" ; Times: 1
+	Query: "Cynoscion arenarius" ; Times: 1
+	Query: "34899" ; Times: 2
+	Query: "34898" ; Times: 1
+	Query: "scientificname:Pristis pristis" ; Times: 1
+	Query: "1997-381" ; Times: 1
+	Query: "scientificname:Coryphaena equiselis" ; Times: 1
+	Query: "Carassius carassius" ; Times: 2
+	Query: "41988" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "39031" ; Times: 1
+	Query: "E.5616.A" ; Times: 1
+	Query: "12995" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 705 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
